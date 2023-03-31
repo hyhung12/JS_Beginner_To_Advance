@@ -28,4 +28,4 @@
 |**POST**|Creates a new article||
 |**PUT**||Updates the article on practice-yeah1|
 |**PATCH**||Updates the article on practice-yeah1|
-|**DELETE**||Delete all the articles|Delete the article on practice-yeah1|
+|**DELETE**|Delete all the articles|Delete the article on practice-yeah1|
