@@ -26,6 +26,6 @@
 |-|-|-|
 |**GET**|Retrieves all the articles| Retrive the article on practice-yeah1|
 |**POST**|Creates a new article||
-|**PUT**||Updates the article on practice-yeah1|
-|**PATCH**||Updates the article on practice-yeah1|
+|**PUT**||Update the article - replace the entire resource with the new data|
+|**PATCH**||Update the article - replace the specified fields in the resource|
 |**DELETE**|Delete all the articles|Delete the article on practice-yeah1|
